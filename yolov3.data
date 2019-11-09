@@ -1,0 +1,5 @@
+classes=4
+train=/media/nnir712/F264A15264A119FD/zzh/dataset/uaminijpg/UA-DETRAC-voc_train.txt
+valid= /media/nnir712/F264A15264A119FD/zzh/dataset/uaminijpg/UA-DETRAC-voc_train.txt
+names= /media/nnir712/F264A15264A119FD/zzh/dataset/uaminijpg/UA-DETRAC-xml.names
+backup= /media/nnir712/F264A15264A119FD/zzh/detect/yolo/zzh_yolo/backup/yolov3
